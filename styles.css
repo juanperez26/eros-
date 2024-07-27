@@ -1,0 +1,7 @@
+.texto-grande {
+    font-size: 3em; /* Tamaño grande de fuente */
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Familia de fuente bonita */
+    color: #7b1fa2; /* Color morado */
+    line-height: 1.5; /* Espaciado entre líneas */
+    text-align: center; /* Alineación centrada */
+}
